@@ -1,1 +1,0 @@
----https://juovo.github.io/app/register/apply.aspx
