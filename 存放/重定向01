@@ -1,0 +1,17 @@
+
+<!--Add by oscar999-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> 0.0 </TITLE>
+<META NAME="Author" CONTENT="oscar999">
+ 
+</HEAD>
+ 
+<BODY>
+This is Test Page.
+<script>
+window.location="http://输入要转的网址.com";
+</script>
+</BODY>
+</HTML>
