@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<video width="620" height="840" controls="controls">
+  <source src="/weixin.png" type="video/png">
+  <source src="/weixin.png" type="video/png">
+</video>
+
+</body>
+</html>
