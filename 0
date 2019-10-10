@@ -1,11 +1,22 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <body>
 
-<video width="620" height="840" controls="controls">
-  <source src="/weixin.png" type="video/png">
-  <source src="/weixin.png" type="video/png">
-</video>
+<p>微信收款码：</p>
+<img id="tulip" src="/weixin.png" alt="The Tulip" />
+
+<p>支付宝收款码：</p>
+<img id="tulip" src="/zhifubao.png" alt="The Tulip" />
+
+
+<script>
+
+var c=document.getElementById("myCanvas");
+var ctx=c.getContext("2d");
+var img=document.getElementById("tulip");
+ctx.drawImage(img,10,10);
+
+</script>
 
 </body>
 </html>
