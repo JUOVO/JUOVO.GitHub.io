@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<p>微信收款码：</p>
-<img id="tulip" src="/weixin.png" alt="The Tulip" />
+<p>要使用的图像：</p>
+<img id="tulip" src="https://juovo.github.io/weixin.png" alt="The Tulip" />
 
-<p>支付宝收款码：</p>
-<img id="tulip" src="/zhifubao.png" alt="The Tulip" />
+<p>要使用的图像：</p>
+<img id="tulip" src="https://juovo.github.io/zhifubao.png" alt="The Tulip" />
 
 
 <script>
